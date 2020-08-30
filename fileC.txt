@@ -6,7 +6,13 @@ New Line has been added
 Added Reviewwer comments 
 
 
+<<<<<<< HEAD
 Addded code as per reviewer comments
 
 
 change  in local repo 
+=======
+Addded code as per reviewer comments 
+
+Changes in remote repo
+>>>>>>> 5ab5ee72dc453af6527169d26a7632c7181629e4
